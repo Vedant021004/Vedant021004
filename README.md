@@ -186,18 +186,7 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-<!-- TROPHIES -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="98%"/>
-
-</div>
-
----
 
 <!-- TECH STACK -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -231,18 +220,7 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-## 📉 Vedant Kapil's Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&custom_title=Your%20Name's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003300&hide_border=true" width="98%"/>
-
-</div>
-
----
 
 <!-- 3D CONTRIBUTION -->
 <div align="center">
