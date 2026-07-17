@@ -1,90 +1,140 @@
-<h1 align="center">Hey, I'm Vedant 👋</h1>
-<h3 align="center">AI/ML Engineer in the making — building production-grade ML, LLM & RAG systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/vedant-kapil-8a786740"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vedantkp79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Vedant%20Kapil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20LangChain%20%26%20RAG%20Builder&descAlignY=55&descSize=18" />
+
+<a href="https://linkedin.com/in/vedant-kapil-8a786740"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:vedantkp79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=Vedant021004&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+production-grade+ML+%2B+LLM+systems;Mathematics+%E2%86%92+Deep+Learning+%E2%86%92+Applied+AI;LangChain+%7C+RAG+%7C+Vector+DBs+%7C+MLOps;Turning+notebooks+into+deployed+products" />
+
+</div>
 
 ---
 
 ### 🧠 About Me
 
-- 🎯 Focused on going **Mathematics → ML → Production AI Engineer** — this is literally the roadmap I've pinned below
-- 🏗️ I build **end-to-end** systems, not just notebooks: data pipelines, model training, evaluation, explainability, and deployment
-- 🤖 Deep interest in **LLMs, RAG pipelines, and agentic systems** — LangChain, embeddings, vector DBs, retrieval architectures
-- 💼 Currently sharpening skills for **top-tier AI/ML and quant-tech roles** (worked through JP Morgan's Software Engineering Virtual Experience as part of this)
-- 📚 Constantly learning — CS50, applied ML, and everything from linear algebra to LLM ops
-- ⚡ Fun fact: I treat my GitHub like a product, not a diary — every pinned repo below is chosen to prove a specific skill
+```yaml
+role: AI/ML Engineer (in progress)
+current_focus: LLMs, RAG pipelines, agentic systems, explainable ML
+philosophy: "Every project should prove a skill, not just exist"
+learning: Mathematics → ML → DL → LLMs → Production AI Engineering
+open_to: AI/ML Engineer roles, Applied Scientist internships, research collabs
+fun_fact: I benchmark my own GitHub profile like it's a product
+```
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-**Languages**
+<div align="center">
+
+**Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**ML / AI**
+**Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**LLM / GenAI**
+**LLM / GenAI Stack**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Tools**
+**Tools & Infra**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects (sorted by what recruiters actually care about)
+### 🚀 Projects Sorted for Recruiters
 
-| Project | What it proves | Stack |
-|---|---|---|
-| 🗺️ [**Mathematics-ML-DL-LLM-RAG-MLOps**](https://github.com/Vedant021004/Mathematics-ML-DL-LLM-RAG-MLOps) | I understand ML from first principles, not just library calls | Python |
-| 🤖 [**Amazon-Product-RAG**](https://github.com/Vedant021004/Amazon-Product-RAG) | I can build real retrieval-augmented LLM systems | LangChain, ChromaDB, Ollama |
-| 💳 [**AI-Powered-Credit-Risk-Delinquency-Prediction**](https://github.com/Vedant021004/AI-Powered-Credit-Risk-Delinquency-Prediction) | I can ship end-to-end ML with explainability (fintech-relevant) | Python, XGBoost, SHAP |
-| 🏦 [**J.P.-Morgan-Virtual-Experience**](https://github.com/Vedant021004/J.P.-Morgan-Virtual-Experience-) | I can operate like a software engineer at a top financial firm | Python, APIs |
-| 🎓 [**HARVARD-CS50-FINAL-PROJECT**](https://github.com/Vedant021004/HARVARD-CS50-FINAL-PROJECT) | Strong CS fundamentals | Python |
-| 📊 [**AI_Placement_Predictor**](https://github.com/Vedant021004/AI_Placement_Predictor) | Applied ML on real-world tabular data | Python |
-
-> 💡 Each project README includes problem statement → approach → results — built to be skimmed by a recruiter in under 60 seconds.
+<table align="center">
+<tr>
+<th>Project</th>
+<th>What it Proves</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td>🗺️ <a href="https://github.com/Vedant021004/Mathematics-ML-DL-LLM-RAG-MLOps"><b>Math-ML-DL-LLM-RAG-MLOps</b></a></td>
+<td>First-principles understanding, not just API calls</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>🤖 <a href="https://github.com/Vedant021004/Amazon-Product-RAG"><b>Amazon-Product-RAG</b></a></td>
+<td>Real retrieval-augmented LLM system design</td>
+<td>LangChain, ChromaDB, Ollama</td>
+</tr>
+<tr>
+<td>💳 <a href="https://github.com/Vedant021004/AI-Powered-Credit-Risk-Delinquency-Prediction"><b>Credit-Risk-Prediction</b></a></td>
+<td>End-to-end ML + explainable AI (fintech-relevant)</td>
+<td>Python, XGBoost, SHAP</td>
+</tr>
+<tr>
+<td>🏦 <a href="https://github.com/Vedant021004/J.P.-Morgan-Virtual-Experience-"><b>JP Morgan Virtual Experience</b></a></td>
+<td>Software engineering at financial-tech scale</td>
+<td>Python, APIs</td>
+</tr>
+<tr>
+<td>🎓 <a href="https://github.com/Vedant021004/HARVARD-CS50-FINAL-PROJECT"><b>CS50 Final Project</b></a></td>
+<td>Strong CS fundamentals</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>📊 <a href="https://github.com/Vedant021004/AI_Placement_Predictor"><b>AI Placement Predictor</b></a></td>
+<td>Applied ML on real-world tabular data</td>
+<td>Python</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Live Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=radical"/>
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut&theme=tokyonight&border_radius=10"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=react-dark"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=tokyonight&border_radius=10"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&area=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-### 🎯 What I'm targeting next
+### 🐍 Contribution Snake
 
-- 🏢 AI/ML Engineer, Data Scientist, or Applied ML roles at product & fintech companies
-- 🧩 Deepening agentic AI / multi-agent LangChain systems
-- 📈 Contributing to open-source ML tooling
+<div align="center">
+<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg" />
+</div>
 
-<p align="center"><i>⭐ If any project here is useful to you, a star means a lot — and feel free to connect!</i></p>
+> ⚙️ Auto-generated daily via GitHub Actions — animates your contribution graph as a snake eating your commits. Setup below.
+
+---
+
+### 🎯 Currently Targeting
+
+- 🏢 AI/ML Engineer, Applied Scientist, or GenAI Engineer roles
+- 🧩 Multi-agent LangChain / agentic RAG systems
+- 📈 Open-source contributions to ML tooling
+- 🎤 Writing about what I build (coming soon)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
+</div>
