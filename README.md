@@ -150,48 +150,7 @@ const developer = {
 </tr>
 </table>
 
-</div>
 
-<br/>
-
-<!-- ROW 3: Stats Table + Commit Graph -->
-<div align="center">
-
-<table>
-<tr>
-<td align="left" width="40%">
-
-### 📊 Stats Overview
-
-| | Metric | Count |
-|--|--------|-------|
-|⭐| Total Stars | **105** |
-|📅| 2025 Commits | **266** |
-|📦| Total PRs | **55** |
-|🐛| Total Issues | **2** |
-|🤝| Contributed To | **164** |
-
-</td>
-<td align="center" width="60%">
-
-### ⏰ Commits (UTC +05:30)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003300&hide_border=true&custom_title=Commit%20Activity" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<!-- TECH STACK -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ## 🛠️ Tech Arsenal
 
