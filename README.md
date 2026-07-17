@@ -145,14 +145,14 @@ const developer = {
 
 ### 📁 Top Languages by Repo
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=6&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
 
 </td>
 <td align="center" width="50%">
 
 ### 💬 Top Languages by Commit
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut-vertical&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=6&hide=html,css"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
