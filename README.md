@@ -53,9 +53,19 @@ const developer = {
 <!-- ABOUT BULLETS -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 </div>
+
+<!-- 3D CONTRIBUTION -->
+<div align="center">
+
+## 🌐 3D Contribution Map
+
+<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/main/profile-3d-contrib/profile-night-green.svg" width="98%"/>
+
+</div>
+
 
 <table align="center">
 <tr>
@@ -153,19 +163,10 @@ const developer = {
 
 
 
-<!-- 3D CONTRIBUTION -->
-<div align="center">
 
-## 🌐 3D Contribution Map
 
-<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/main/profile-3d-contrib/profile-night-green.svg" width="98%"/>
 
-</div>
 
----
-
-<!-- PINNED / FEATURED PROJECTS -->
-<div align="center">
 
 
 
