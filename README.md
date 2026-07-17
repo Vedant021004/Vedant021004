@@ -1,13 +1,4 @@
 
-<!-- ANIMATED BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+Android+Developer+%7C+PyTorch+%26+LangChain;🚀+Building+Apps+That+Change+Lives;💡+Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<!-- SNAKE ANIMATION -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
