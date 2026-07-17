@@ -167,18 +167,7 @@ const developer = {
 <!-- PINNED / FEATURED PROJECTS -->
 <div align="center">
 
-## 🔥 Featured Projects
 
-</div>
-
-<div align="center">
-<a href="https://github.com/Vedant021004/Amazon-Product-RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=Amazon-Product-RAG&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/Vedant021004/ML-FOR-EVERYONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=ML-FOR-EVERYONE&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-</a>
-</div>
 
 
 
