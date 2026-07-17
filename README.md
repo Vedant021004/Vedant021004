@@ -1,6 +1,4 @@
-# 🔥 ULTRA PRO GitHub README - Same Style as Screenshot
 
-```markdown
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20My%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=FFFFFF"/>
 </div>
@@ -306,61 +304,4 @@ const developer = {
 ⭐ **Star my repos if you like my work!** ⭐
 
 </div>
-```
 
----
-
-## ⚙️ Extra Setup Steps
-
-```yaml
-# Add to .github/workflows/snake.yml for snake animation
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-```yaml
-# Add to .github/workflows/3d.yml for 3D contribution map
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: generate-3d-contrib
-```
-
-> 🔥 Replace **ALL** `Vedant021004` and `Vedant Kapil` with your real info!
