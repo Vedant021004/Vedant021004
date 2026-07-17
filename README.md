@@ -105,6 +105,17 @@ fun_fact: I benchmark my own GitHub profile like it's a product
 
 <div align="center">
 
+<!-- Summary cards: Stats box + Commits-by-UTC-hour chart (exact style from the reference profile) -->
+<img src="https://vn7n24fzkq.vercel.app/api/status/Vedant021004?theme=react_dark" height="150"/>
+<img src="https://vn7n24fzkq.vercel.app/api/time/Vedant021004?theme=react_dark&utcOffset=5.5" height="150"/>
+
+<br/>
+
+<!-- Two separate donut charts: by repo AND by commit -->
+<img src="https://vn7n24fzkq.vercel.app/api/top-langs/Vedant021004?theme=react_dark" height="220"/>
+
+<br/>
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut&theme=tokyonight&border_radius=10"/>
 
