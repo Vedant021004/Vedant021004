@@ -1,17 +1,14 @@
 
-```markdown
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20My%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Vedant%20Kapil's%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=FFFFFF"/>
 </div>
 
-<!-- ANIMATED TYPING BANNER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+Android+Developer+%7C+Java+%26+Kotlin;🚀+Building+Apps+That+Change+Lives;💡+Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg" />
@@ -24,7 +21,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ABOUT ME WITH CODE BLOCK -->
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -32,18 +28,18 @@
 ```javascript
 const developer = {
   name      : "Vedant Kapil",
-  username  : "Vedant021004", 
+  username  : "Vedant021004",
   role      : "Android Developer",
   languages : ["Java", "Kotlin", "Dart"],
   location  : "India 🇮🇳",
   timezone  : "UTC +05:30",
   available : true,
   hireable  : true,
-  
+
   dailyRoutine() {
     return [
       "☕ Coffee",
-      "💻 Code",  
+      "💻 Code",
       "🐛 Debug",
       "😴 Sleep",
       "🔁 Repeat"
@@ -65,7 +61,7 @@ const developer = {
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 </div>
 
@@ -75,11 +71,10 @@ const developer = {
 
 ```
 📱  Building Android apps that help people every day
-🔥  Focused on learning and improving  
+🔥  Focused on learning and improving
 💼  Enjoy working on variety of projects
 🤝  Open to collaboration
 💰  Offering services for Android Apps
-🏆  Passionate GitHub Contributor
 🌍  Based in India
 ⚡  Fun fact: I debug with console.log() unironically
 ```
@@ -90,7 +85,6 @@ const developer = {
 
 ---
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
 ## 🌐 Find Me Around The Web
@@ -110,7 +104,7 @@ const developer = {
 <a href="https://t.me/Vedant021004">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4"/>
 </a>
-<a href="https://wa.me/yourphone">
+<a href="https://wa.me/910000000000">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
 </a>
 
@@ -131,15 +125,13 @@ const developer = {
 
 </div>
 
-<!-- Main Stats + Streak -->
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 <br/>
 
-<!-- Languages Donut Charts -->
 <div align="center">
 
 <table>
@@ -165,7 +157,6 @@ const developer = {
 
 <br/>
 
-<!-- Stats Table + Commit Graph -->
 <div align="center">
 
 <table>
@@ -174,18 +165,18 @@ const developer = {
 
 ### 📊 Stats Overview
 
-| | Metric | Count |
+| | Metric | Value |
 |--|--------|-------|
 |⭐| Total Stars | ![Stars](https://img.shields.io/github/stars/Vedant021004?color=00FF41&style=flat) |
-|📅| Total Commits | **Counting...** |
-|📦| Public Repos | ![Repos](https://img.shields.io/badge/dynamic/json?color=00FF41&label=Repos&query=public_repos&url=https://api.github.com/users/Vedant021004&style=flat) |
-|🐛| Total Issues | ![Issues](https://img.shields.io/github/issues/Vedant021004/Vedant021004?color=00FF41&style=flat) |
-|🤝| Contributed To | **Growing...** |
+|🍴| Forks | ![Forks](https://img.shields.io/github/forks/Vedant021004?color=00FF41&style=flat) |
+|🐛| Issues | ![Issues](https://img.shields.io/github/issues/Vedant021004?color=00FF41&style=flat) |
+|🔀| PRs | ![PRs](https://img.shields.io/github/issues-pr/Vedant021004?color=00FF41&style=flat) |
+|👥| Followers | ![Followers](https://img.shields.io/github/followers/Vedant021004?color=00FF41&style=flat) |
 
 </td>
 <td align="center" width="60%">
 
-### ⏰ Commit Activity (UTC +05:30)
+### ⏰ Commits (UTC +05:30)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003300&hide_border=true&custom_title=Vedant%20Kapil%20Commit%20Activity" width="100%"/>
 
@@ -199,7 +190,6 @@ const developer = {
 
 ---
 
-<!-- TROPHIES -->
 <div align="center">
 
 ## 🏆 GitHub Trophies
@@ -212,7 +202,6 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TECH STACK -->
 <div align="center">
 
 ## 🛠️ Tech Arsenal
@@ -224,7 +213,7 @@ const developer = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -244,7 +233,6 @@ const developer = {
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ## 📉 Vedant Kapil's Contribution Graph
@@ -255,7 +243,6 @@ const developer = {
 
 ---
 
-<!-- 3D CONTRIBUTION -->
 <div align="center">
 
 ## 🌐 3D Contribution Map
@@ -266,23 +253,18 @@ const developer = {
 
 ---
 
-<!-- FEATURED PROJECTS -->
 <div align="center">
 
 ## 🔥 Featured Projects
 
-<a href="https://github.com/Vedant021004">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=project1&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/Vedant021004">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=project2&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+<a href="https://github.com/Vedant021004?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=Vedant021004&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-<!-- QUOTE -->
 <div align="center">
 
 ## 💭 Dev Quote of The Day
@@ -293,19 +275,15 @@ const developer = {
 
 ---
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=120&section=footer&text=Thanks%20for%20Visiting%20Vedant's%20Profile!&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code."*
-
 ⭐ **Star my repos if you like my work!** ⭐
 
 </div>
-```
+````
 
+---
 
-| **6** | Commit and push → Visit `github.com/Vedant021004` 🎉 |
-
-> ⚠️ **Note**: Snake animation & 3D map need workflows to work. If you want those, tell me and I'll add them to the same file setup instructions! 🚀
