@@ -7,3 +7,12 @@ AI Engineer • Machine Learning • LLMs • RAG • Cloud • MLOps
 <p align="center">
 Building intelligent AI applications with Python, LangChain, Ollama, FastAPI, AWS and Docker.
 </p>
+
+🤖 Artificial Intelligence
+🧠 Machine Learning
+☁ AWS Cloud
+🐳 Docker
+⚡ FastAPI
+🔗 LangChain
+
+![](https://komarev.com/ghpvc/?username=Vedant021004&color=blue)
