@@ -290,12 +290,7 @@ const developer = {
 
 </div>
 
----
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=65"/>
-
-<div align="center">
 
 ⭐ **Star my repos if you like my work!** ⭐
 
