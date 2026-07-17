@@ -252,9 +252,7 @@ const developer = {
 
 ## 🌐 3D Contribution Map
 
-<a href="https://github.com/Vedant021004">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true&hide_title=true&card_width=800" width="98%"/>
-</a>
+<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/main/profile-3d-contrib/profile-night-green.svg" width="98%"/>
 
 </div>
 
