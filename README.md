@@ -1,8 +1,4 @@
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20My%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=FFFFFF"/>
-</div>
-
 <!-- ANIMATED BANNER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+Android+Developer+%7C+PyTorch+%26+LangChain;🚀+Building+Apps+That+Change+Lives;💡+Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
