@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Vedant%20Kapil's%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a4a1a,100:00FF41&height=200&section=header&text=Hey%20Everyone%20👋&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Vedant%20Kapil's%20GitHub%20Universe%20🌌&descAlignY=55&descSize=20&descColor=39FF14"/>
 </div>
 
 <div align="center">
@@ -9,6 +9,7 @@
 
 <br/>
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg" />
@@ -30,7 +31,7 @@ const developer = {
   name      : "Vedant Kapil",
   username  : "Vedant021004",
   role      : "Android Developer",
-  languages : ["Java", "Kotlin", "Dart"],
+  languages : ["Python","C", "C++", "java"],
   location  : "India 🇮🇳",
   timezone  : "UTC +05:30",
   available : true,
@@ -61,7 +62,7 @@ const developer = {
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
 
 </div>
 
@@ -125,13 +126,15 @@ const developer = {
 
 </div>
 
+<!-- Main Stats + Streak -->
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Vedant021004&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 <br/>
 
+<!-- Languages Donut Charts -->
 <div align="center">
 
 <table>
@@ -147,7 +150,7 @@ const developer = {
 
 ### 💬 Top Languages by Commit
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut-vertical&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=6&hide=html,css"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=donut-vertical&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=6"/>
 
 </td>
 </tr>
@@ -157,6 +160,7 @@ const developer = {
 
 <br/>
 
+<!-- Stats Table + Commit Graph -->
 <div align="center">
 
 <table>
@@ -168,9 +172,9 @@ const developer = {
 | | Metric | Value |
 |--|--------|-------|
 |⭐| Total Stars | ![Stars](https://img.shields.io/github/stars/Vedant021004?color=00FF41&style=flat) |
-|🍴| Forks | ![Forks](https://img.shields.io/github/forks/Vedant021004?color=00FF41&style=flat) |
-|🐛| Issues | ![Issues](https://img.shields.io/github/issues/Vedant021004?color=00FF41&style=flat) |
-|🔀| PRs | ![PRs](https://img.shields.io/github/issues-pr/Vedant021004?color=00FF41&style=flat) |
+|🍴| Forks | ![Forks](https://img.shields.io/badge/Forks-Growing-00FF41?style=flat) |
+|🐛| Issues | ![Issues](https://img.shields.io/badge/Issues-Active-00FF41?style=flat) |
+|🔀| PRs | ![PRs](https://img.shields.io/badge/PRs-Open-00FF41?style=flat) |
 |👥| Followers | ![Followers](https://img.shields.io/github/followers/Vedant021004?color=00FF41&style=flat) |
 
 </td>
@@ -213,7 +217,7 @@ const developer = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Web
+### 🌐 Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -243,23 +247,43 @@ const developer = {
 
 ---
 
+<!-- 3D CONTRIBUTION MAP - FIXED WITH WORKING ALTERNATIVE -->
 <div align="center">
 
 ## 🌐 3D Contribution Map
 
-<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/main/profile-3d-contrib/profile-night-green.svg" width="98%"/>
+<a href="https://github.com/Vedant021004">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&include_all_commits=true&count_private=true&hide_title=true&card_width=800" width="98%"/>
+</a>
 
 </div>
 
 ---
 
+<!-- FEATURED PROJECTS - FIXED -->
 <div align="center">
 
 ## 🔥 Featured Projects
 
+</div>
+
+<div align="center">
 <a href="https://github.com/Vedant021004?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=Vedant021004&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedant021004&repo=Vedant021004&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&description_lines_count=2" />
 </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+> 📌 **Pin your best repos above** — go to your GitHub profile → click **Customize your pins** → select your top projects!
+
+| 🚀 Project | 📝 Description | 🛠️ Tech | ⭐ Stars |
+|-----------|---------------|---------|---------|
+| [Project 1](https://github.com/Vedant021004) | Android App | Java/Kotlin | ![](https://img.shields.io/badge/⭐-Stars-00FF41?style=flat) |
+| [Project 2](https://github.com/Vedant021004) | Mobile App | Flutter/Dart | ![](https://img.shields.io/badge/⭐-Stars-00FF41?style=flat) |
+| [Project 3](https://github.com/Vedant021004) | Firebase App | Android | ![](https://img.shields.io/badge/⭐-Stars-00FF41?style=flat) |
 
 </div>
 
@@ -275,15 +299,14 @@ const developer = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=120&section=footer&text=Thanks%20for%20Visiting%20Vedant's%20Profile!&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a4a1a,100:00FF41&height=120&section=footer&text=Thanks%20for%20Visiting%20Vedant's%20Profile!&fontSize=24&fontColor=00FF41&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code."*
+
 ⭐ **Star my repos if you like my work!** ⭐
 
 </div>
-````
 
----
 
