@@ -128,27 +128,7 @@ const developer = {
 <!-- ROW 2: Languages Donut Charts Side by Side -->
 <div align="center">
 
-<table>
-<tr>
 
-<td align="center" width="50%">
-
-<h3>📁 Top Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=merko&hide_border=true&langs_count=8" />
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>📊 GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true" />
-
-</td>
-
-</tr>
-</table>
 
 
 
