@@ -94,21 +94,11 @@ const developer = {
 <a href="mailto:vedantkp79@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
-<a href="https://instagram.com/Vedant021004">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-</a>
+
 <a href="https://linkedin.com/in/Vedant021004">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-<a href="https://medium.com/@Vedant021004">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://t.me/Vedant021004">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4"/>
-</a>
-<a href="mailto:vedantkp79@gmail.com">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
-</a>
+
 
 <br/><br/>
 
@@ -119,12 +109,11 @@ const developer = {
 
 ---
 
-<!-- GITHUB STATS DASHBOARD - EXACTLY LIKE SCREENSHOT -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics Dashboard
+  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics Dashboard
 
 </div>
 
@@ -141,20 +130,23 @@ const developer = {
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
-### 📁 Top Languages by Repo
+<h3>📁 Top Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=merko&hide_border=true&langs_count=8" />
 
 </td>
+
 <td align="center" width="50%">
 
-### 💬 Top Languages by Commit
+<h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true" />
 
 </td>
+
 </tr>
 </table>
 
@@ -233,7 +225,7 @@ const developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 </div>
 
@@ -279,16 +271,6 @@ const developer = {
 </a>
 </div>
 
----
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-## 💭 Dev Quote of The Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs"/>
-
-</div>
 
 
 
