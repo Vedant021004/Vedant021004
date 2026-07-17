@@ -93,21 +93,13 @@ const developer = {
 <a href="mailto:vedantkapil@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
-<a href="https://instagram.com/Vedant021004">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-</a>
+
 <a href="https://linkedin.com/in/Vedant021004">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 <a href="https://medium.com/@Vedant021004">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://t.me/Vedant021004">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4"/>
-</a>
-<a href="https://wa.me/910000000000">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
-</a>
+
 
 <br/><br/>
 
