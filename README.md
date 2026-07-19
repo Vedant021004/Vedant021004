@@ -241,47 +241,12 @@ const developer = {
 
 </div>
 
-<!-- ROW 1: Main Stats + Streak -->
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=merko&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</div>
-
-<br/>
-
-<!-- ROW 2: Languages Donut Charts Side by Side -->
-<div align="center">
 
 
 
 
 
-## 🛠️ Tech Arsenal
 
-### 🤖 Artificial Intelligence
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web
-![PyTorchScript](https://img.shields.io/badge/PyTorchScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
