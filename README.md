@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kapil</h1>
-
 <h3 align="center">
-AI Engineer | Machine Learning Enthusiast | Building Intelligent Systems
+AI Engineer | Machine Learning | Building Intelligent Systems
 </h3>
-
 <p align="center">
 Learning • Building • Deploying AI Applications
 </p>
@@ -12,20 +10,17 @@ Learning • Building • Deploying AI Applications
 
 ## 👨‍💻 About Me
 
-I am an aspiring AI Engineer passionate about building intelligent applications using Large Language Models, Machine Learning, and modern AI frameworks.
+I build intelligent applications using Large Language Models, Machine Learning, and modern AI frameworks.
 
-Currently, I am focused on:
+Currently focused on:
+- Machine Learning & Deep Learning
+- AI Agents with LangChain & LangGraph
+- REST APIs with FastAPI
+- RAG, Vector Databases, and Embeddings
+- Data Structures & Algorithms
+- MLOps and Cloud Deployment
 
-- Learning Machine Learning & Deep Learning
-- Building AI Agents using LangChain & LangGraph
-- Developing REST APIs with FastAPI
-- Working with RAG, Vector Databases, and Embeddings
-- Practicing Data Structures & Algorithms
-- Exploring MLOps and Cloud Deployment
-
-I enjoy turning AI ideas into real-world applications and continuously improving my engineering skills.
-
----
+I turn AI ideas into real-world applications and keep sharpening my engineering skills.
 
 ## 🚀 Current Focus
 
