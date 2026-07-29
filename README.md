@@ -2,35 +2,48 @@
 
 # Vedant Kapil
 
-### AI Engineer • Intelligent Systems
+### AI Engineer • Machine Learning • Intelligent Systems
 
-Building production-ready AI applications powered by Machine Learning, Large Language Models, and Agentic AI.
+Building production-ready AI applications using Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and Multi-Agent AI.
 
 <p>
-<a href="https://github.com/Vedant021004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vedant-kapil-8a786740a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vedantkp79@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Vedant021004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-kapil-8a786740a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vedantkp79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-# About Me
+# About
 
-I'm passionate about designing and building intelligent software using **Machine Learning**, **Large Language Models**, and **Agentic AI**.
+I enjoy building intelligent software that combines **Machine Learning**, **Large Language Models**, and modern AI frameworks.
 
-My interests include multi-agent systems, Retrieval-Augmented Generation (RAG), LLM fine-tuning, and deploying production-ready AI applications using modern backend and cloud technologies.
+My interests include:
+
+- Multi-Agent AI Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents with LangChain & LangGraph
+- FastAPI Backend Development
+- MLOps & Cloud Deployment
 
 ---
 
 # Currently Working On
 
-- 🤖 AI Data Analyst Copilot (SQL + RAG + Multi-Agent Architecture)
+- 🤖 AI Data Analyst Copilot
 - 🧠 Transformer Architecture & LLM Fine-Tuning
 - 📄 Intelligent PDF Analysis using RAG
-- 🚀 FastAPI Backend Development
-- 🐳 Docker & Kubernetes Deployment
+- ⚡ Multi-Agent AI with LangGraph
+- 🚀 FastAPI + Docker Deployment
 
 ---
 
@@ -38,16 +51,16 @@ My interests include multi-agent systems, Retrieval-Augmented Generation (RAG), 
 
 ## 🤖 AI Data Analyst Copilot
 
-Enterprise AI assistant capable of analysing structured and unstructured data through SQL, Retrieval-Augmented Generation, and multi-agent reasoning.
+Enterprise AI assistant capable of analysing structured and unstructured data using SQL, Retrieval-Augmented Generation, and Multi-Agent workflows.
 
 **Features**
 
 - SQL Agent
-- PDF Analysis
 - RAG Pipeline
-- LangGraph Multi-Agent Workflow
+- PDF Analysis
 - Interactive Charts
 - Report Generation
+- LangGraph Workflow
 - FastAPI Backend
 
 **Tech Stack**
@@ -58,14 +71,15 @@ Enterprise AI assistant capable of analysing structured and unstructured data th
 
 ## 🛒 Amazon Product RAG
 
-Semantic product search system powered by embeddings and vector databases.
+Semantic product search powered by embeddings and vector databases.
 
-**Features**
+**Highlights**
 
 - Semantic Search
-- ChromaDB
 - Sentence Transformers
+- ChromaDB
 - Ollama
+- Local LLM
 - Retrieval-Augmented Generation
 
 ---
@@ -80,7 +94,7 @@ AI-powered educational analytics platform.
 - Attendance Insights
 - Quiz Generation
 - Academic Recommendations
-- Analytics Dashboard
+- Dashboard Analytics
 
 ---
 
@@ -92,7 +106,7 @@ AI-powered educational analytics platform.
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgresql"/>
 </p>
 
-### AI & Machine Learning
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
@@ -100,12 +114,12 @@ AI-powered educational analytics platform.
 
 - NumPy
 - Pandas
-- Matplotlib
 - Scikit-Learn
+- Matplotlib
 - LangChain
 - LangGraph
-- Ollama
 - Hugging Face
+- Ollama
 - ChromaDB
 - FAISS
 
@@ -121,40 +135,52 @@ AI-powered educational analytics platform.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vedant021004&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Vedant021004&theme=github-dark-blue&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Activity Graph
+# GitHub Contribution Snake
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-# Open Source Goals
-
-- Build production-ready AI applications
-- Contribute to open-source AI projects
-- Explore Multi-Agent AI Systems
-- Master LLM Fine-Tuning
-- Learn MLOps and Cloud Deployment
-- Share technical knowledge through projects
+</div>
 
 ---
 
-# Connect With Me
+# Learning Focus
+
+- Machine Learning
+- Deep Learning
+- Transformers
+- LLM Fine-Tuning
+- Multi-Agent AI
+- MLOps
+- AWS
+
+---
+
+# Connect
 
 <div align="center">
 
@@ -176,19 +202,8 @@ AI-powered educational analytics platform.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile.
 
 *"Building intelligent systems that solve real-world problems."*
 
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg">
-</picture>
