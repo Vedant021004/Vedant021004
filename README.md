@@ -131,23 +131,15 @@ AI-powered educational analytics platform.
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vedant021004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vedant021004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedant021004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=vedant021004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Vedant021004&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
