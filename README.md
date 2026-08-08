@@ -1,200 +1,127 @@
 <div align="center">
 
-# Hi 👋, I'm Vedant Kapil
+# Vedant Kapil
 
-### 🚀 AI Engineer | Machine Learning | LLMs | RAG | Multi-Agent AI | Full Stack Developer
+### AI Engineer • Machine Learning • LLMs • Agentic AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;LLM+%7C+LangChain+%7C+LangGraph;Retrieval+Augmented+Generation;FastAPI+%7C+Docker+%7C+AWS;Always+Learning+Something+New" />
+Building intelligent systems with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and Multi-Agent AI.
+
+[LinkedIn](https://www.linkedin.com/in/vedant-kapil-8a786740a/) • [GitHub](https://github.com/Vedant021004) • vedantkp79@gmail.com
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# About
 
-<p align="center">
+I'm passionate about designing production-ready AI systems that solve real-world problems.
 
-<a href="https://www.linkedin.com/in/vedant-kapil-8a786740a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+My current work focuses on:
 
-<a href="https://github.com/Vedant021004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:vedantkp79@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- Large Language Models (LLMs)
+- Agentic AI & LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- FastAPI Backends
+- MLOps & Cloud Deployment
 
 ---
 
-# 💡 About Me
+# Selected Projects
 
-I am passionate about building **production-ready AI systems** using
+## AI Data Analyst Copilot
 
-- 🤖 Machine Learning
-- 🧠 Large Language Models
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ LangChain & LangGraph
-- 🚀 FastAPI
-- 🐳 Docker
-- ☁️ AWS
+Enterprise AI assistant capable of understanding structured and unstructured business data.
 
-Currently focused on building AI products that solve real-world business problems.
+**Highlights**
 
----
-
-# 🚀 Current Focus
-
-- 🤖 AI Data Analyst Copilot
-- 🧠 Transformer Architecture
-- ⚡ LangGraph Multi-Agent Systems
-- 📄 Intelligent PDF RAG
-- 🚀 FastAPI Production APIs
-- ☁️ AWS & MLOps
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-**Libraries**
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Hugging Face
-- LangChain
-- LangGraph
-- ChromaDB
-- FAISS
-- Ollama
-
----
-
-## Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
-
-</p>
-
----
-
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Data Analyst Copilot
-
-Enterprise AI assistant capable of
-
+- Multi-Agent Workflow
 - SQL Agent
-- RAG
+- RAG Pipeline
 - PDF Analysis
-- Charts
-- LangGraph
-- FastAPI
+- FastAPI Backend
+- Interactive Reports
 
-Tech
+**Stack**
 
-`LangGraph`
-`LangChain`
-`FastAPI`
-`SQLite`
-`Docker`
-`ChromaDB`
+Python • LangGraph • LangChain • FastAPI • SQLite • ChromaDB • Ollama
 
 ---
 
-## 🛒 Amazon Product RAG
+## Amazon Product RAG
 
-Semantic Search using
+Semantic product search powered by embeddings and vector databases.
 
+**Highlights**
+
+- Semantic Search
 - Sentence Transformers
+- Local LLM
 - ChromaDB
-- Ollama
-- Embeddings
-- Vector Search
+- Retrieval-Augmented Generation
 
 ---
 
-## 🏫 Smart School AI
+## Smart School AI
 
-Educational AI Platform
+AI-powered educational analytics platform.
 
-Features
+**Highlights**
 
-- Student Analytics
-- Attendance Prediction
+- Student Performance Analytics
+- Attendance Intelligence
 - Quiz Generation
-- Dashboard
-- Recommendations
+- Academic Recommendation Engine
+- Dashboard Analytics
 
 ---
 
-# 📊 GitHub Statistics
+# Current Focus
+
+- Transformer Architecture
+- LLM Fine-Tuning
+- Multi-Agent AI
+- LangGraph
+- MLOps
+- AWS
+
+---
+
+# Technology
+
+**Languages**
+
+Python • C++ • Java • SQL • JavaScript • TypeScript
+
+**AI**
+
+PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy • Hugging Face • LangChain • LangGraph • ChromaDB • FAISS • Ollama
+
+**Backend**
+
+FastAPI • Node.js • REST APIs
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**DevOps**
+
+Docker • Git • Linux • AWS
+
+---
+
+# GitHub Statistics
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://streak-stats.demolab.com?user=Vedant021004&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vedant021004&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+# Contribution Activity
 
 <p align="center">
 
@@ -204,17 +131,7 @@ Features
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -224,40 +141,16 @@ Features
 
 ---
 
-# 📚 Currently Learning
+# Connect
 
-- Machine Learning
-- Deep Learning
-- Transformers
-- LLM Fine-Tuning
-- LangGraph
-- Agentic AI
-- FastAPI
-- Docker
-- Kubernetes
-- AWS
-- MLOps
-
----
-
-# 📫 Reach Me
-
-📧 **vedantkp79@gmail.com**
-
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/vedant-kapil-8a786740a/
-
-💻 **GitHub**
-
-https://github.com/Vedant021004
+- LinkedIn → https://www.linkedin.com/in/vedant-kapil-8a786740a/
+- GitHub → https://github.com/Vedant021004
+- Email → vedantkp79@gmail.com
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Vedant021004&style=for-the-badge)
-
-### ⭐ If you like my work, consider giving a star to my repositories!
+> *Building intelligent systems that solve real-world problems.*
 
 </div>
