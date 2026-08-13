@@ -30,16 +30,19 @@ AI Engineer focused on building practical and production-oriented AI systems.
 ## Featured Projects
 
 ### AI Data Analyst Copilot
+
 AI-powered assistant for analyzing structured and unstructured business data.
 
 **Python • LangGraph • LangChain • FastAPI • SQL • RAG • ChromaDB**
 
 ### Amazon Product RAG
+
 Semantic product search using embeddings and vector databases.
 
 **Python • Sentence Transformers • ChromaDB • Ollama • RAG**
 
 ### Smart School AI
+
 AI-powered educational analytics and recommendation platform.
 
 **Machine Learning • AI • Analytics • Dashboard**
@@ -48,16 +51,20 @@ AI-powered educational analytics and recommendation platform.
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
+
 Python • C++ • Java • SQL • JavaScript • TypeScript
 
-**AI / ML**  
+**AI / ML**
+
 PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • LangGraph • ChromaDB • FAISS • Ollama
 
-**Backend / Cloud**  
+**Backend / Cloud**
+
 FastAPI • Node.js • Docker • Linux • AWS • Git
 
-**Frontend**  
+**Frontend**
+
 React • Next.js • Tailwind CSS
 
 ---
