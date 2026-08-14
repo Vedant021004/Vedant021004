@@ -21,7 +21,7 @@ AI Engineer focused on building practical and production-oriented AI systems.
 - 🤖 Machine Learning & Deep Learning
 - 🧠 LLMs & Transformers
 - 🔗 RAG & Vector Databases
-- 🕸️ LangChain & LangGraph
+- 🕸️ LangChain, LangGraph & langsmith
 - ⚡ Agentic & Multi-Agent AI
 - 🚀 FastAPI, Docker & AWS
 
