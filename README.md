@@ -2,46 +2,173 @@
 
 # Vedant Kapil
 
-### AI Engineer | Machine Learning | LLMs | Agentic AI
+### AI/ML Engineer | Computer Vision | Generative AI | RAG | Agentic AI
 
-Building intelligent systems with **Machine Learning, LLMs, RAG, and Agentic AI**.
+Building, deploying, and optimizing **AI systems that solve real-world problems.**
 
 [LinkedIn](https://www.linkedin.com/in/vedant-kapil-8a786740a/) •
 [GitHub](https://github.com/Vedant021004) •
-vedantkp79@gmail.com
+[vedantkp79@gmail.com](mailto:vedantkp79@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-AI Engineer focused on building practical and production-oriented AI systems.
+AI/ML Engineer focused on building **practical, production-oriented AI systems** using Machine Learning, Computer Vision, Generative AI, RAG, and Agentic AI.
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 LLMs & Transformers
-- 🔗 RAG & Vector Databases
-- 🕸️ LangChain, LangGraph & langsmith
-- ⚡ Agentic & Multi-Agent AI
-- 🚀 FastAPI, Docker & AWS
+🏆 Recently participated in and **won a hackathon**, building an AI-powered solution that combines **Computer Vision, real-time object detection, automated invoice generation, and intelligent business workflows**.
+
+* 🤖 Machine Learning & Deep Learning
+* 👁️ Computer Vision & YOLO
+* 🧠 Generative AI & LLMs
+* 🔗 RAG & Vector Databases
+* 🦜 LangChain & LangGraph
+* 📊 LLM Applications & AI Agents
+* 🕸️ Agentic & Multi-Agent AI
+* 🔍 RAG Optimization & Retrieval
+* ⚡ FastAPI & Backend Development
+* 🐳 Docker & Deployment
+* ☁️ AWS & Cloud
+* 🛠️ Git & GitHub
 
 ---
 
-## Featured Projects
+## 🏆 Recent Achievement
 
-### AI Data Analyst Copilot
+### 🥇 Hackathon Winner
+
+Recently won a hackathon by building an **AI-powered Computer Vision solution** designed to automate real-world business processes.
+
+### What we built
+
+👁️ **Real-Time Object Detection**
+
+Used computer vision to detect multiple products/items automatically instead of scanning them individually.
+
+📦 **Inventory Recognition**
+
+Automatically identifies products and their quantities from visual input.
+
+🧾 **Automated Invoice Generation**
+
+Detected items are processed and used to generate invoices automatically.
+
+⚡ **End-to-End Automation**
+
+```text
+Camera / Image
+      ↓
+YOLO Object Detection
+      ↓
+Product Identification
+      ↓
+Quantity Detection
+      ↓
+Price Calculation
+      ↓
+Invoice Generation
+```
+
+The system achieved approximately **93% detection accuracy** during testing.
+
+### 🧠 Technologies Used
+
+**Python • YOLO • Computer Vision • Machine Learning • LLMs • RAG • FastAPI • Generative AI**
+
+---
+
+## 🔥 Current Focus
+
+Currently going deeper into **Advanced RAG and Agentic AI**.
+
+```text
+Basic RAG
+   ↓
+Advanced RAG
+   ↓
+Multimodal RAG
+   ↓
+Agentic RAG
+   ↓
+Multi-Agent AI
+```
+
+Learning and implementing:
+
+* 🦙 LlamaParse
+* 🏷️ Metadata & Metadata Filtering
+* 🔎 Advanced Retrieval
+* 🏆 Reranking
+* 🔀 Hybrid Search
+* 📚 BM25
+* 🔄 Query Rewriting
+* 🔍 Multi-Query Retrieval
+* 🗜️ Context Compression
+* 🖼️ Multimodal RAG
+* 📊 RAG Evaluation
+* 🤖 Agentic RAG
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 AI Inventory & Billing System
+
+Computer Vision powered inventory and billing solution that detects multiple products automatically and generates invoices.
+
+**Python • YOLO • Computer Vision • Machine Learning • Automation**
+
+---
+
+### 🤖 AI Data Analyst Copilot
 
 AI-powered assistant for analyzing structured and unstructured business data.
 
 **Python • LangGraph • LangChain • FastAPI • SQL • RAG • ChromaDB**
 
-### Amazon Product RAG
+---
 
-Semantic product search using embeddings and vector databases.
+### 📚 RAG Document Assistant
+
+Document question-answering system that allows users to upload documents and ask questions using Retrieval-Augmented Generation.
+
+**Python • LangChain • LangGraph • Ollama • ChromaDB • Groq • RAG**
+
+Current architecture:
+
+```text
+Document
+   ↓
+Parsing
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+ChromaDB
+   ↓
+Retrieval
+   ↓
+Context
+   ↓
+LLM
+   ↓
+Answer
+```
+
+---
+
+### 🛍️ Amazon Product RAG
+
+Semantic product search system using embeddings and vector databases.
 
 **Python • Sentence Transformers • ChromaDB • Ollama • RAG**
 
-### Smart School AI
+---
+
+### 🏫 Smart School AI
 
 AI-powered educational analytics and recommendation platform.
 
@@ -49,27 +176,116 @@ AI-powered educational analytics and recommendation platform.
 
 ---
 
-## Tech Stack
+## 🧠 AI / ML Skills
 
-**Languages**
+### Machine Learning
 
-Python • C++ • Java • SQL • JavaScript • TypeScript
+* Supervised Learning
+* Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* Classification
+* Regression
+* Clustering
 
-**AI / ML**
+### Deep Learning
 
-PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • LangGraph • ChromaDB • FAISS • Ollama
+* Neural Networks
+* CNNs
+* Computer Vision
+* Transfer Learning
+* Model Training & Optimization
 
-**Backend / Cloud**
+### Computer Vision
 
-FastAPI • Node.js • Docker • Linux • AWS • Git
+* YOLO
+* Object Detection
+* Image Processing
+* Real-Time Detection
+* Product Recognition
+* Computer Vision Automation
 
-**Frontend**
+### Generative AI
 
-React • Next.js • Tailwind CSS
+* LLMs
+* Transformers
+* Prompt Engineering
+* RAG
+* Vector Databases
+* Embeddings
+* LLM Agents
+* Agentic AI
+* Multimodal AI
 
 ---
 
-## GitHub Stats
+## 🔗 RAG Stack
+
+```text
+LangChain
+LangGraph
+LlamaParse
+ChromaDB
+FAISS
+Ollama
+Groq
+Hugging Face
+Sentence Transformers
+```
+
+Currently exploring:
+
+```text
+Parsing
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+Vector Database
+   ↓
+Retrieval
+   ↓
+Reranking
+   ↓
+Context Compression
+   ↓
+LLM
+   ↓
+Grounded Answer
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • C++ • Java • SQL • JavaScript • TypeScript
+
+### AI / ML
+
+PyTorch • TensorFlow • Scikit-Learn • Hugging Face • YOLO • OpenCV
+
+### Generative AI
+
+LangChain • LangGraph • LangSmith • LlamaParse • ChromaDB • FAISS • Ollama • Groq
+
+### Backend / Cloud
+
+FastAPI • Node.js • Docker • Linux • AWS
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Developer Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -81,7 +297,7 @@ React • Next.js • Tailwind CSS
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
 
@@ -91,7 +307,7 @@ React • Next.js • Tailwind CSS
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -101,14 +317,55 @@ React • Next.js • Tailwind CSS
 
 ---
 
-## Connect
+## 🎯 What I'm Building Towards
+
+My goal is to become an **AI/ML Engineer capable of taking an AI idea from concept → model → application → deployment.**
+
+```text
+                    AI / ML
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+ Computer Vision     GenAI        Machine Learning
+        │              │              │
+       YOLO           LLMs          Models
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                  AI Systems
+                       ↓
+                Real-World Problems
+                       ↓
+                 🚀 Production
+```
+
+---
+
+## 📚 Currently Learning
+
+* Advanced RAG
+* Reranking
+* Hybrid Retrieval
+* Multimodal RAG
+* Vision LLMs
+* Agentic AI
+* Multi-Agent Systems
+* RAG Evaluation
+* AI System Optimization
+* Production AI Deployment
+
+---
+
+## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/vedant-kapil-8a786740a/) •
 [GitHub](https://github.com/Vedant021004) •
-vedantkp79@gmail.com
+[vedantkp79@gmail.com](mailto:vedantkp79@gmail.com)
 
 <div align="center">
 
-### Building AI systems that solve real-world problems.
+### ⚡ Building. Deploying. Solving.
+
+**Turning AI/ML into real-world solutions. 🚀**
 
 </div>
