@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VEDANT%20KAPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20COMPUTER%20VISION&descAlignY=60&descSize=18" width="100%"/>
@@ -66,7 +67,7 @@ Price Calculation
    │
    ▼
 Invoice Generation
-```
+````
 
 ### Tech
 
@@ -305,7 +306,7 @@ The goal is to build systems that are:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=Vedant021004&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Vedant021004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%"/>
 
 <br><br>
 
@@ -339,4 +340,10 @@ while continuously improving my understanding of the engineering behind them.
 
 ### BUILD → MEASURE → IMPROVE → REPEAT
 
+</div>
+```
+
+One correction from your original: I also closed the final `<div>` properly with:
+
+</div>
 
