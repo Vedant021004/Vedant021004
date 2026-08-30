@@ -1,204 +1,305 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VEDANT%20KAPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20COMPUTER%20VISION%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VEDANT%20KAPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20COMPUTER%20VISION&descAlignY=60&descSize=18" width="100%"/>
 
-<br>
+### Building AI systems that solve real problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Working+AI+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;Always+Learning.+Always+Building." />
-
-<br><br>
-
+<p>
 <a href="https://github.com/Vedant021004">
-<img src="https://img.shields.io/github/followers/Vedant021004?label=FOLLOW&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://github.com/Vedant021004?tab=repositories">
-<img src="https://img.shields.io/github/stars/Vedant021004?label=STARS&style=for-the-badge&logo=github&color=yellow"/>
-</a>
-
 <a href="https://www.linkedin.com/in/vedant-kapil-8a786740a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
 ---
 
-## ⚡ `> whoami`
+# 👋 About Me
 
-```python
-Vedant = {
-    "role": "AI/ML Engineer",
-    "focus": [
-        "Machine Learning",
-        "Computer Vision",
-        "Generative AI",
-        "RAG",
-        "LLMs",
-        "Agentic AI"
-    ],
-    "currently": "Building + Learning",
-    "philosophy": "Build things that actually work."
-}
-```
+I'm **Vedant Kapil**, an AI/ML engineer focused on building practical intelligent systems.
 
-I build **AI-powered systems that solve practical problems** — from computer vision and automated billing to document intelligence and RAG applications.
+My work sits at the intersection of:
+
+* 🤖 Machine Learning
+* 👁️ Computer Vision
+* 🧠 Generative AI
+* 📚 Retrieval-Augmented Generation
+* 🔗 LLM & Agentic Systems
+* ⚙️ AI Application Engineering
+
+I enjoy taking an idea from **problem → model → system → working application**.
+
+> **I don't just train models. I build systems around them.**
 
 ---
 
-# 🏆 `LATEST ACHIEVEMENT`
+# 🚀 Featured Projects
 
-<div align="center">
+## 🛒 AI Inventory & Billing System
 
-## 🥇 HACKATHON WINNER
+**Computer Vision + Automation**
 
-### Built an AI-powered Inventory & Billing System
+An AI-powered inventory system that uses computer vision to identify multiple products and automate billing.
 
-<br>
-
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-93%25%20ACCURACY-00E5FF?style=for-the-badge&logo=opencv"/>
-
-</div>
-
-Our system uses **YOLO + Computer Vision** to detect multiple products automatically instead of scanning them one by one.
+### Architecture
 
 ```text
-                  📷 CAMERA
-                      │
-                      ▼
-               ┌─────────────┐
-               │ YOLO MODEL  │
-               └──────┬──────┘
-                      │
-                      ▼
-              📦 PRODUCT DETECTION
-                      │
-                      ▼
-              🔢 QUANTITY DETECTION
-                      │
-                      ▼
-               💰 PRICE CALCULATION
-                      │
-                      ▼
-               🧾 AUTO INVOICE
-```
-
-**Result:** approximately **93% detection accuracy** during testing.
-
----
-
-# 🚀 `WHAT I'VE BEEN BUILDING`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 AI Inventory & Billing
-
-Computer Vision based inventory automation that detects multiple products and generates invoices automatically.
-
-`YOLO` `OpenCV` `Python` `AI`
-
-</td>
-
-<td width="50%">
-
-### 📚 RAG Document Assistant
-
-Upload PDFs/PPTs and ask questions about their content using Retrieval-Augmented Generation.
-
-`LangChain` `Chroma` `Ollama` `Groq`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI Data Analyst Copilot
-
-AI assistant for analysing structured and unstructured business data.
-
-`LangGraph` `FastAPI` `SQL` `RAG`
-
-</td>
-
-<td width="50%">
-
-### 🛍️ Amazon Product RAG
-
-Semantic product search using embeddings and vector databases.
-
-`Sentence Transformers` `ChromaDB` `Ollama`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 `MY AI STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,pytorch,tensorflow,opencv,fastapi,docker,linux,aws,git,github,react,nextjs" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-5B2EFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-00A98F?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🔬 `CURRENTLY EXPLORING`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Advanced+RAG;LlamaParse;Metadata+%26+Filtering;Reranking;Hybrid+Search+%2B+BM25;Query+Rewriting;Multimodal+RAG;Vision+LLMs;Agentic+AI;RAG+Evaluation" />
-
-</div>
-
-### My RAG progression
-
-```text
-Basic RAG
+Camera
    │
-   ├── 📄 Parsing
-   ├── ✂️ Chunking
-   ├── 🧠 Embeddings
-   ├── 🗄️ Vector DB
-   └── 🔎 Similarity Search
-              │
-              ▼
-        Advanced RAG
-              │
-        ┌─────┼─────┐
-        ▼     ▼     ▼
-    Reranking  BM25  Hybrid Search
-        │
-        ▼
-   Query Transformation
-        │
-        ▼
-   Context Compression
-        │
-        ▼
-   Multimodal RAG
-        │
-        ▼
-     Agentic AI
+   ▼
+YOLO Detection
+   │
+   ▼
+Product Identification
+   │
+   ▼
+Quantity Estimation
+   │
+   ▼
+Inventory Update
+   │
+   ▼
+Price Calculation
+   │
+   ▼
+Invoice Generation
+```
+
+### Tech
+
+`Python` `YOLO` `OpenCV` `Computer Vision`
+
+### Highlights
+
+* Multi-object product detection
+* Automated quantity estimation
+* Inventory tracking
+* Automatic price calculation
+* Invoice generation
+* Tested detection performance of approximately **93%** under the project's evaluation setup
+
+🏆 **Hackathon Project**
+
+---
+
+## 📚 CareBridge — RAG Document Assistant
+
+**Retrieval-Augmented Generation**
+
+A document intelligence system that allows users to upload documents and ask questions about their content.
+
+```text
+Documents
+    │
+    ▼
+Document Parsing
+    │
+    ▼
+Chunking
+    │
+    ▼
+Embeddings
+    │
+    ▼
+Vector Database
+    │
+    ▼
+Retriever
+    │
+    ▼
+Relevant Context
+    │
+    ▼
+LLM
+    │
+    ▼
+Grounded Answer
+```
+
+### Tech
+
+`Python` `LangChain` `ChromaDB` `Ollama` `Groq`
+
+### Currently improving
+
+* Metadata filtering
+* Better chunking
+* Reranking
+* Hybrid retrieval
+* Query rewriting
+* RAG evaluation
+
+---
+
+## 🤖 AI Data Analyst
+
+**LLMs + Agents + Data**
+
+An AI assistant designed to interact with structured and unstructured business data.
+
+### System
+
+```text
+User Query
+    │
+    ▼
+Query Understanding
+    │
+    ▼
+Agent / Router
+    │
+    ├──────────────┐
+    ▼              ▼
+SQL Database    Document RAG
+    │              │
+    └──────┬───────┘
+           ▼
+      Answer Generation
+           │
+           ▼
+      User Response
+```
+
+### Tech
+
+`Python` `LangGraph` `FastAPI` `SQL` `RAG` `LLMs`
+
+---
+
+## 🛍️ Product Search with RAG
+
+**Semantic Search + Vector Database**
+
+A semantic product-search system that retrieves products based on meaning rather than simple keyword matching.
+
+### Pipeline
+
+```text
+Product Data
+     │
+     ▼
+Text Embeddings
+     │
+     ▼
+Vector Database
+     │
+     ▼
+Semantic Retrieval
+     │
+     ▼
+Relevant Products
+```
+
+### Tech
+
+`Python` `Sentence Transformers` `ChromaDB` `Ollama`
+
+---
+
+# 🧠 Technical Skills
+
+### AI / Machine Learning
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
+
+### Computer Vision
+
+`OpenCV` `YOLO` `Image Processing` `Object Detection`
+
+### Generative AI
+
+`LLMs` `RAG` `LangChain` `LangGraph` `Embeddings` `Vector Databases`
+
+### Search & Retrieval
+
+`ChromaDB` `FAISS` `BM25` `Hybrid Search` `Reranking`
+
+### Backend & Engineering
+
+`FastAPI` `REST APIs` `SQL` `Git` `GitHub` `Docker` `Linux`
+
+### Languages
+
+`Python` `C++` `Java` `JavaScript` `TypeScript`
+
+---
+
+# 🔬 What I'm Exploring
+
+I'm currently going deeper into **production-grade RAG and AI systems**.
+
+```text
+RAG
+ │
+ ├── Better Document Parsing
+ │
+ ├── Chunking Strategies
+ │
+ ├── Metadata Filtering
+ │
+ ├── Hybrid Search
+ │      ├── Vector Search
+ │      └── BM25
+ │
+ ├── Reranking
+ │
+ ├── Query Rewriting
+ │
+ ├── Context Compression
+ │
+ ├── Multimodal RAG
+ │
+ ├── RAG Evaluation
+ │
+ └── Agentic AI
+```
+
+The goal is not just to make an LLM answer questions.
+
+The goal is to build systems that are:
+
+**accurate → grounded → observable → evaluable → production-ready**
+
+---
+
+# 🏗️ How I Build
+
+```text
+        PROBLEM
+           │
+           ▼
+       UNDERSTAND
+           │
+           ▼
+          DATA
+           │
+           ▼
+       EXPERIMENT
+           │
+           ▼
+          MODEL
+           │
+           ▼
+         SYSTEM
+           │
+           ▼
+         DEPLOY
+           │
+           ▼
+        MEASURE
+           │
+           ▼
+        IMPROVE
+           │
+           └─────────── 🔁
 ```
 
 ---
 
-# 📊 `GITHUB ACTIVITY`
+# 📊 GitHub
 
 <div align="center">
 
@@ -214,7 +315,7 @@ Basic RAG
 
 ---
 
-# 🐍 `CONTRIBUTION MATRIX`
+# 🐍 Contributions
 
 <div align="center">
 
@@ -224,38 +325,20 @@ Basic RAG
 
 ---
 
-# 🧩 `THE DEVELOPER LOOP`
+# 🎯 Current Goal
 
-<div align="center">
+Build and deploy **production-quality AI systems** that combine:
 
-```text
-       💡 IDEA
-          ↓
-       🧠 LEARN
-          ↓
-       ⚙️ BUILD
-          ↓
-      🧪 EXPERIMENT
-          ↓
-       🚀 DEPLOY
-          ↓
-       💥 BREAK
-          ↓
-      🔧 IMPROVE
-          │
-          └─────────────── 🔁
-```
+**Machine Learning + Computer Vision + LLMs + RAG + Agents**
 
-</div>
+while continuously improving my understanding of the engineering behind them.
 
 ---
 
 <div align="center">
 
+### BUILD → MEASURE → IMPROVE → REPEAT
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-### `BUILD • DEPLOY • LEARN • REPEAT`
-
-**Thanks for visiting. 🚀**
 
 </div>
