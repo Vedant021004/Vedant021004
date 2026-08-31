@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VEDANT%20KAPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20COMPUTER%20VISION&descAlignY=60&descSize=18" width="100%"/>
@@ -45,10 +44,6 @@ I enjoy taking an idea from **problem → model → system → working applicati
 
 An AI-powered inventory system that uses computer vision to identify multiple products and automate billing.
 
-### Architecture
-
-
-
 ### Tech
 
 `Python` `YOLO` `OpenCV` `Computer Vision`
@@ -72,13 +67,11 @@ An AI-powered inventory system that uses computer vision to identify multiple pr
 
 A document intelligence system that allows users to upload documents and ask questions about their content.
 
-
-
 ### Tech
 
 `Python` `LangChain` `ChromaDB` `Ollama` `Groq`
 
-### Currently improving
+### Currently Improving
 
 * Metadata filtering
 * Better chunking
@@ -95,10 +88,6 @@ A document intelligence system that allows users to upload documents and ask que
 
 An AI assistant designed to interact with structured and unstructured business data.
 
-### System
-
-
-
 ### Tech
 
 `Python` `LangGraph` `FastAPI` `SQL` `RAG` `LLMs`
@@ -110,10 +99,6 @@ An AI assistant designed to interact with structured and unstructured business d
 **Semantic Search + Vector Database**
 
 A semantic product-search system that retrieves products based on meaning rather than simple keyword matching.
-
-### Pipeline
-
-
 
 ### Tech
 
@@ -153,16 +138,13 @@ A semantic product-search system that retrieves products based on meaning rather
 
 I'm currently going deeper into **production-grade RAG and AI systems**.
 
-```text
-
-
 The goal is not just to make an LLM answer questions.
 
 The goal is to build systems that are:
 
 **accurate → grounded → observable → evaluable → production-ready**
 
-
+---
 
 # 📊 GitHub
 
@@ -205,9 +187,3 @@ while continuously improving my understanding of the engineering behind them.
 ### BUILD → MEASURE → IMPROVE → REPEAT
 
 </div>
-```
-
-One correction from your original: I also closed the final `<div>` properly with:
-
-</div>
-
