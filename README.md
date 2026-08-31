@@ -47,27 +47,7 @@ An AI-powered inventory system that uses computer vision to identify multiple pr
 
 ### Architecture
 
-```text
-Camera
-   │
-   ▼
-YOLO Detection
-   │
-   ▼
-Product Identification
-   │
-   ▼
-Quantity Estimation
-   │
-   ▼
-Inventory Update
-   │
-   ▼
-Price Calculation
-   │
-   ▼
-Invoice Generation
-````
+
 
 ### Tech
 
@@ -92,33 +72,7 @@ Invoice Generation
 
 A document intelligence system that allows users to upload documents and ask questions about their content.
 
-```text
-Documents
-    │
-    ▼
-Document Parsing
-    │
-    ▼
-Chunking
-    │
-    ▼
-Embeddings
-    │
-    ▼
-Vector Database
-    │
-    ▼
-Retriever
-    │
-    ▼
-Relevant Context
-    │
-    ▼
-LLM
-    │
-    ▼
-Grounded Answer
-```
+
 
 ### Tech
 
@@ -143,26 +97,7 @@ An AI assistant designed to interact with structured and unstructured business d
 
 ### System
 
-```text
-User Query
-    │
-    ▼
-Query Understanding
-    │
-    ▼
-Agent / Router
-    │
-    ├──────────────┐
-    ▼              ▼
-SQL Database    Document RAG
-    │              │
-    └──────┬───────┘
-           ▼
-      Answer Generation
-           │
-           ▼
-      User Response
-```
+
 
 ### Tech
 
@@ -178,21 +113,7 @@ A semantic product-search system that retrieves products based on meaning rather
 
 ### Pipeline
 
-```text
-Product Data
-     │
-     ▼
-Text Embeddings
-     │
-     ▼
-Vector Database
-     │
-     ▼
-Semantic Retrieval
-     │
-     ▼
-Relevant Products
-```
+
 
 ### Tech
 
@@ -233,30 +154,7 @@ Relevant Products
 I'm currently going deeper into **production-grade RAG and AI systems**.
 
 ```text
-RAG
- │
- ├── Better Document Parsing
- │
- ├── Chunking Strategies
- │
- ├── Metadata Filtering
- │
- ├── Hybrid Search
- │      ├── Vector Search
- │      └── BM25
- │
- ├── Reranking
- │
- ├── Query Rewriting
- │
- ├── Context Compression
- │
- ├── Multimodal RAG
- │
- ├── RAG Evaluation
- │
- └── Agentic AI
-```
+
 
 The goal is not just to make an LLM answer questions.
 
@@ -264,41 +162,7 @@ The goal is to build systems that are:
 
 **accurate → grounded → observable → evaluable → production-ready**
 
----
 
-# 🏗️ How I Build
-
-```text
-        PROBLEM
-           │
-           ▼
-       UNDERSTAND
-           │
-           ▼
-          DATA
-           │
-           ▼
-       EXPERIMENT
-           │
-           ▼
-          MODEL
-           │
-           ▼
-         SYSTEM
-           │
-           ▼
-         DEPLOY
-           │
-           ▼
-        MEASURE
-           │
-           ▼
-        IMPROVE
-           │
-           └─────────── 🔁
-```
-
----
 
 # 📊 GitHub
 
