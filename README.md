@@ -1,68 +1,33 @@
-<div align="center">
+name: Generate Snake Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Kapil&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=16" width="100%"/>
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main               # regenerate whenever you push to main
 
-**AI/ML Engineer building production-grade RAG, agentic, and computer vision systems.**
+permissions:
+  contents: write
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedant021004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kapil-8a786740a/)
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: Vedant021004
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-</div>
-
-<br>
-
-## About
-
-I'm an AI/ML engineer working across machine learning, computer vision, and generative AI — with a focus on retrieval-augmented generation and LLM-powered agentic systems. I care about taking systems from prototype to something that's actually observable, evaluable, and reliable in production, not just a demo that works once.
-
-**Currently focused on:** production-grade RAG systems — retrieval quality, evaluation, and grounding, not just "an LLM that answers questions."
-
-<br>
-
-## Projects
-
-**AI Inventory & Billing System** — Computer vision pipeline for multi-object product detection, automated quantity estimation, and invoice generation. ~93% detection accuracy under the project's evaluation setup.
-`Python` `YOLO` `OpenCV`
-
-**CareBridge — RAG Document Assistant** — Document intelligence system for querying uploaded documents via retrieval-augmented generation. Actively iterating on chunking, hybrid retrieval, reranking, and query rewriting.
-`Python` `LangChain` `ChromaDB` `Ollama` `Groq`
-
-**AI Data Analyst** — Agent-based assistant for querying structured and unstructured business data.
-`Python` `LangGraph` `FastAPI` `SQL`
-
-**Product Search with RAG** — Semantic product search using embeddings and vector retrieval instead of keyword matching.
-`Python` `Sentence Transformers` `ChromaDB` `Ollama`
-
-<br>
-
-## Skills
-
-| Area | Stack |
-|---|---|
-| AI / ML | Python, PyTorch, TensorFlow, Scikit-learn, XGBoost |
-| Computer Vision | OpenCV, YOLO, Object Detection, Image Processing |
-| Generative AI | LLMs, RAG, LangChain, LangGraph, Embeddings, Vector Databases |
-| Search & Retrieval | ChromaDB, FAISS, BM25, Hybrid Search, Reranking |
-| Backend / Infra | FastAPI, REST APIs, SQL, Docker, Linux, Git |
-| Languages | Python, C++, Java, JavaScript, TypeScript |
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Building → measuring → improving → repeating.</sub>
-
-</div>
+      - name: Push SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
