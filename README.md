@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Kapil&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=16" width="100%"/>
 
 <pre>
       
