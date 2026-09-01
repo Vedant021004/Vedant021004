@@ -81,7 +81,7 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+
 <img src="https://streak-stats.demolab.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
 
 
