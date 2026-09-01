@@ -84,21 +84,9 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 <img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
 
 </div>
 
-<br>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2C5364/Vedant021004" width="97%"/>
-
-</div>
-
-<br>
 
 ## Contribution Snake
 
