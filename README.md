@@ -9,6 +9,10 @@
  / /  / / / / / /   | |/ /  __/ /_/ / /_/ / / / / /_                 
 /_/  /_/ /_/ /_/    |___/\___/\__,_/\__,_/_/ /_/\__/  
 
+</pre>
+      
+
+<pre>
     |
   |
   + \
@@ -114,6 +118,8 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 <sub>Building → measuring → improving → repeating.</sub>
 
+<pre>
+
              _.-````'-,_
    _,.,_ ,-'`           `'-.,_
  /)     (\                   '``-.
@@ -127,5 +133,6 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
                 \( \(     |/   |/
                /_(/_(    /_(  /_(
 
+</pre>
 
 </div>
