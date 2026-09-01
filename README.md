@@ -126,7 +126,9 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
      \Y,   |  \  \  | ````| / \_ \
        `)_/    \  \  )    ( >  ( >
                 \( \(     |/   |/
-               /_(/_(    /_(  /_(
+               /_(/_(    /_(  /_(   
+      
+“Be like the bison — face the storm, keep moving.”
 
 </pre>
 
