@@ -1,126 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VEDANT%20KAPIL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20COMPUTER%20VISION&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Kapil&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=16" width="100%"/>
 
-### Building AI systems that solve real problems.
+**AI/ML Engineer building production-grade RAG, agentic, and computer vision systems.**
 
-<p>
-<a href="https://github.com/Vedant021004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vedant-kapil-8a786740a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedant021004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kapil-8a786740a/)
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## About
 
-I'm **Vedant Kapil**, an AI/ML engineer focused on building practical intelligent systems.
+I'm an AI/ML engineer working across machine learning, computer vision, and generative AI — with a focus on retrieval-augmented generation and LLM-powered agentic systems. I care about taking systems from prototype to something that's actually observable, evaluable, and reliable in production, not just a demo that works once.
 
-My interests sit at the intersection of:
+**Currently focused on:** production-grade RAG systems — retrieval quality, evaluation, and grounding, not just "an LLM that answers questions."
 
-`Machine Learning` · `Computer Vision` · `Generative AI` · `RAG` · `LLM Agents` · `AI Engineering`
+<br>
 
-I enjoy taking an idea from:
+## Projects
 
-**Problem → Model → System → Production**
+**AI Inventory & Billing System** — Computer vision pipeline for multi-object product detection, automated quantity estimation, and invoice generation. ~93% detection accuracy under the project's evaluation setup.
+`Python` `YOLO` `OpenCV`
 
-> I don't just train models. I build systems around them.
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 AI Inventory & Billing System
-
-A computer-vision based inventory and billing system that detects multiple products and automates the billing workflow.
-
-**Tech Stack**
-
-`Python` `YOLO` `OpenCV` `Computer Vision`
-
-**Highlights**
-
-- Multi-object product detection
-- Quantity estimation
-- Inventory tracking
-- Automatic price calculation
-- Invoice generation
-- ~93% detection performance under the project's evaluation setup
-
-🏆 **Hackathon Project**
-
----
-
-### 📚 CareBridge — RAG Document Assistant
-
-A document intelligence system that allows users to upload documents and ask questions about their content.
-
-**Tech Stack**
-
+**CareBridge — RAG Document Assistant** — Document intelligence system for querying uploaded documents via retrieval-augmented generation. Actively iterating on chunking, hybrid retrieval, reranking, and query rewriting.
 `Python` `LangChain` `ChromaDB` `Ollama` `Groq`
 
-**Currently Improving**
+**AI Data Analyst** — Agent-based assistant for querying structured and unstructured business data.
+`Python` `LangGraph` `FastAPI` `SQL`
 
-`Hybrid Retrieval` · `Reranking` · `Query Rewriting` · `Metadata Filtering` · `RAG Evaluation`
-
----
-
-### 🤖 AI Data Analyst
-
-An AI assistant designed to interact with structured and unstructured business data.
-
-**Tech Stack**
-
-`Python` `LangGraph` `FastAPI` `SQL` `RAG` `LLMs`
-
----
-
-### 🛍️ Semantic Product Search
-
-A semantic search system that retrieves products based on meaning rather than simple keyword matching.
-
-**Tech Stack**
-
+**Product Search with RAG** — Semantic product search using embeddings and vector retrieval instead of keyword matching.
 `Python` `Sentence Transformers` `ChromaDB` `Ollama`
 
----
+<br>
 
-## 🧠 Technical Skills
+## Skills
 
-### Artificial Intelligence
+| Area | Stack |
+|---|---|
+| AI / ML | Python, PyTorch, TensorFlow, Scikit-learn, XGBoost |
+| Computer Vision | OpenCV, YOLO, Object Detection, Image Processing |
+| Generative AI | LLMs, RAG, LangChain, LangGraph, Embeddings, Vector Databases |
+| Search & Retrieval | ChromaDB, FAISS, BM25, Hybrid Search, Reranking |
+| Backend / Infra | FastAPI, REST APIs, SQL, Docker, Linux, Git |
+| Languages | Python, C++, Java, JavaScript, TypeScript |
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
+<br>
 
-### Generative AI
+## GitHub Stats
 
-`LLMs` `RAG` `LangChain` `LangGraph` `Embeddings` `Vector Databases`
+<div align="center">
 
-### Computer Vision
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
 
-`OpenCV` `YOLO` `Object Detection` `Image Processing`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&hide_border=true&area=true" width="97%"/>
 
-### Search & Retrieval
+</div>
 
-`ChromaDB` `FAISS` `BM25` `Hybrid Search` `Reranking`
+<br>
 
-### Backend & Engineering
+<div align="center">
 
-`FastAPI` `REST APIs` `SQL` `Docker` `Git` `GitHub` `Linux`
+<sub>Building → measuring → improving → repeating.</sub>
 
-### Programming Languages
-
-`Python` `C++` `Java` `JavaScript` `TypeScript`
-
----
-
-## 🔬 Currently Exploring
-
-### Production AI Engineering
-
-I'm going deeper into building reliable AI systems rather than simply calling an LLM API.
-
+</div>
