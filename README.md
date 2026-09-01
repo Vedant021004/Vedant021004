@@ -17,108 +17,92 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 I'm **Vedant Kapil**, an AI/ML engineer focused on building practical intelligent systems.
 
-My work sits at the intersection of:
+My interests sit at the intersection of:
 
-* 🤖 Machine Learning
-* 👁️ Computer Vision
-* 🧠 Generative AI
-* 📚 Retrieval-Augmented Generation
-* 🔗 LLM & Agentic Systems
-* ⚙️ AI Application Engineering
+`Machine Learning` · `Computer Vision` · `Generative AI` · `RAG` · `LLM Agents` · `AI Engineering`
 
-I enjoy taking an idea from **problem → model → system → working application**.
+I enjoy taking an idea from:
 
-> **I don't just train models. I build systems around them.**
+**Problem → Model → System → Production**
+
+> I don't just train models. I build systems around them.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛒 AI Inventory & Billing System
+### 🛒 AI Inventory & Billing System
 
-**Computer Vision + Automation**
+A computer-vision based inventory and billing system that detects multiple products and automates the billing workflow.
 
-An AI-powered inventory system that uses computer vision to identify multiple products and automate billing.
-
-### Tech
+**Tech Stack**
 
 `Python` `YOLO` `OpenCV` `Computer Vision`
 
-### Highlights
+**Highlights**
 
-* Multi-object product detection
-* Automated quantity estimation
-* Inventory tracking
-* Automatic price calculation
-* Invoice generation
-* Tested detection performance of approximately **93%** under the project's evaluation setup
+- Multi-object product detection
+- Quantity estimation
+- Inventory tracking
+- Automatic price calculation
+- Invoice generation
+- ~93% detection performance under the project's evaluation setup
 
 🏆 **Hackathon Project**
 
 ---
 
-## 📚 CareBridge — RAG Document Assistant
-
-**Retrieval-Augmented Generation**
+### 📚 CareBridge — RAG Document Assistant
 
 A document intelligence system that allows users to upload documents and ask questions about their content.
 
-### Tech
+**Tech Stack**
 
 `Python` `LangChain` `ChromaDB` `Ollama` `Groq`
 
-### Currently Improving
+**Currently Improving**
 
-* Metadata filtering
-* Better chunking
-* Reranking
-* Hybrid retrieval
-* Query rewriting
-* RAG evaluation
+`Hybrid Retrieval` · `Reranking` · `Query Rewriting` · `Metadata Filtering` · `RAG Evaluation`
 
 ---
 
-## 🤖 AI Data Analyst
-
-**LLMs + Agents + Data**
+### 🤖 AI Data Analyst
 
 An AI assistant designed to interact with structured and unstructured business data.
 
-### Tech
+**Tech Stack**
 
 `Python` `LangGraph` `FastAPI` `SQL` `RAG` `LLMs`
 
 ---
 
-## 🛍️ Product Search with RAG
+### 🛍️ Semantic Product Search
 
-**Semantic Search + Vector Database**
+A semantic search system that retrieves products based on meaning rather than simple keyword matching.
 
-A semantic product-search system that retrieves products based on meaning rather than simple keyword matching.
-
-### Tech
+**Tech Stack**
 
 `Python` `Sentence Transformers` `ChromaDB` `Ollama`
 
 ---
 
-# 🧠 Technical Skills
+## 🧠 Technical Skills
 
-### AI / Machine Learning
+### Artificial Intelligence
 
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost`
-
-### Computer Vision
-
-`OpenCV` `YOLO` `Image Processing` `Object Detection`
 
 ### Generative AI
 
 `LLMs` `RAG` `LangChain` `LangGraph` `Embeddings` `Vector Databases`
+
+### Computer Vision
+
+`OpenCV` `YOLO` `Object Detection` `Image Processing`
 
 ### Search & Retrieval
 
@@ -126,64 +110,17 @@ A semantic product-search system that retrieves products based on meaning rather
 
 ### Backend & Engineering
 
-`FastAPI` `REST APIs` `SQL` `Git` `GitHub` `Docker` `Linux`
+`FastAPI` `REST APIs` `SQL` `Docker` `Git` `GitHub` `Linux`
 
-### Languages
+### Programming Languages
 
 `Python` `C++` `Java` `JavaScript` `TypeScript`
 
 ---
 
-# 🔬 What I'm Exploring
+## 🔬 Currently Exploring
 
-I'm currently going deeper into **production-grade RAG and AI systems**.
+### Production AI Engineering
 
-The goal is not just to make an LLM answer questions.
+I'm going deeper into building reliable AI systems rather than simply calling an LLM API.
 
-The goal is to build systems that are:
-
-**accurate → grounded → observable → evaluable → production-ready**
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Vedant021004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant021004&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-# 🎯 Current Goal
-
-Build and deploy **production-quality AI systems** that combine:
-
-**Machine Learning + Computer Vision + LLMs + RAG + Agents**
-
-while continuously improving my understanding of the engineering behind them.
-
----
-
-<div align="center">
-
-### BUILD → MEASURE → IMPROVE → REPEAT
-
-</div>
