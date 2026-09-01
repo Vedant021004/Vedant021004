@@ -3,16 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vedant%20Kapil&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=16" width="100%"/>
 
 <pre>
+      
       _ _                              __            __ 
    (_| )____ ___     _   _____  ____/ /___ _____  / /_         
   / /|// __ `__ \   | | / / _ \/ __  / __ `/ __ \/ __/
  / /  / / / / / /   | |/ /  __/ /_/ / /_/ / / / / /_                 
 /_/  /_/ /_/ /_/    |___/\___/\__,_/\__,_/_/ /_/\__/  
+      
 
 </pre>
       
 
 <pre>
+      
     |
   |
   + \
@@ -23,6 +26,7 @@
 ~~ \)-'   '
    / |   a:f
   '  '
+      
 </pre>
 **AI/ML Engineer building production-grade RAG, agentic, and computer vision systems.**
 
@@ -103,18 +107,6 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 <br>
 
-## Extras
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&theme=great-gatsby&show_icons=true" alt="Vedant's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages" width="500px"/>
-</div>
-
-
-
-<div align="center">
 
 <sub>Building → measuring → improving → repeating.</sub>
 
