@@ -19,17 +19,38 @@
 
 <pre>
       
-    |
-  |
-  + \
-  \\.G_.*=.
-   `(#'/.\|
-    .>' (_--.
- _=/d   ,^\
-~~ \)-'   '
-   / |   a:f
-  '  '
+<div align="center">
+  <samp>
+    Hello there! I'm <b><a href="https://vedant021004.github.io/">Vedant Kapil</a></b>.
+    <br>
+    I’m a Computer Engineering undergraduate from India, focused on Artificial Intelligence, Machine Learning, and Generative AI.
+  </samp>
+  <br><br>
+
+  <!-- Resting Knight GIF -->
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight Resting">
+
+  <!-- Interactive Dark Souls Bonfire Dropdown -->
+  <details open>
+    <summary><b><samp>🔥 Light bonfire</samp></b></summary>
+    <samp>
+      <h2 style="color: #fc6203;">B O N F I R E &nbsp; L I T !</h2>
+      <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" alt="Bonfire Lit">
       
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/vedant-kapil-8a786740"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:vedantkp79@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://vedant021004.github.io/"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23" alt="Portfolio Website"></a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://github.com/Vedant021004"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"></a>
+</p>
+  </details>
+
+  <hr>
+  
+</div>    
 </pre>
 **AI/ML Engineer building production-grade RAG, agentic, and computer vision systems.**
 
@@ -103,38 +124,7 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 <pre>
 
-<div align="center">
-  <samp>
-    Hello there! I'm <b><a href="https://vedant021004.github.io/">Vedant Kapil</a></b>.
-    <br>
-    I’m a Computer Engineering undergraduate from India, focused on Artificial Intelligence, Machine Learning, and Generative AI.
-  </samp>
-  <br><br>
-
-  <!-- Resting Knight GIF -->
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight Resting">
-
-  <!-- Interactive Dark Souls Bonfire Dropdown -->
-  <details open>
-    <summary><b><samp>🔥 Light bonfire</samp></b></summary>
-    <samp>
-      <h2 style="color: #fc6203;">B O N F I R E &nbsp; L I T !</h2>
-      <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" alt="Bonfire Lit">
-      
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/vedant-kapil-8a786740"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:vedantkp79@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" href="https://vedant021004.github.io/"><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23" alt="Portfolio Website"></a>
-  &nbsp;&nbsp;
-  <a target="_blank" href="https://github.com/Vedant021004"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"></a>
-</p>
-  </details>
-
-  <hr>
-  
-</div>      
+   
 
       
 
