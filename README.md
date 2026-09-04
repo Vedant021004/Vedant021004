@@ -21,7 +21,7 @@
       
 <div align="center">
   <samp>
-    Hello there! I'm <b><a href="https://vedant021004.github.io/">Vedant Kapil</a></b>.
+    Hello there! 
     <br>
     I’m a Computer Engineering undergraduate from India, focused on Artificial Intelligence, Machine Learning, and Generative AI.
   </samp>
@@ -36,8 +36,6 @@
     <samp>
       <h2 style="color: #fc6203;">B O N F I R E &nbsp; L I T !</h2>
       <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" alt="Bonfire Lit">
-      
-
   </details>
 
   <hr>
@@ -138,5 +136,10 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 </pre>
 
-🎵 [Listen to my song](./song.mp3)
+<p align="center">
+  <a href="https://github.com/Vedant021004/Vedant021004/raw/main/song.mp3">
+    <img src="https://img.shields.io/badge/▶%20Play%20Song-Listen%20Now-black?style=for-the-badge" alt="Play Song">
+  </a>
+</p>
+
 </div>
