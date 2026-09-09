@@ -136,10 +136,6 @@ I'm an AI/ML engineer working across machine learning, computer vision, and gene
 
 </pre>
 
-<p align="center">
-  <a href="https://github.com/Vedant021004/Vedant021004/raw/main/Lifeline - Amber.mp3">
-    <img src="https://img.shields.io/badge/▶%20Play%20Song-Listen%20Now-black?style=for-the-badge" alt="Play Song">
-  </a>
-</p>
+
 
 </div>
