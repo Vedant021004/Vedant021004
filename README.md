@@ -42,13 +42,13 @@ calling an LLM and printing its response.
 
 I'm currently diving deep into:
 
-- 🤖 **Generative AI & LLM Applications**
-- 🧩 **LangChain & LangGraph**
-- 🔀 **Multi-Agent Systems**
-- 🧠 **RAG & Long-Term Memory**
-- 🗣️ **NLP & Fine-Tuning**
-- ⚙️ **AI Automation & Tool Calling**
-- 🚀 Turning ideas into actual working projects
+ 🤖 **Generative AI & LLM Applications**
+ 🧩 **LangChain & LangGraph**
+ 🔀 **Multi-Agent Systems**
+ 🧠 **RAG & Long-Term Memory**
+ 🗣️ **NLP & Fine-Tuning**
+ ⚙️ **AI Automation & Tool Calling**
+ 🚀 Turning ideas into actual working projects
 
 My approach is simple:
 
