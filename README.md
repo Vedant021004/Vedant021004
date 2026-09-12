@@ -24,7 +24,7 @@
 ### AI / ML Engineer · Generative AI · Agentic Systems
 
 
-<video src="https://github.com/user-attachments/assets/1c2b359e-8dd3-48c1-b9f6-35ef97d4ed46" controls width="800"></video>
+<video src="https://github.com/user-attachments/assets/1d3260a8-2607-4bb2-b04c-20412932009f" controls width="800"></video>
 
 <br>
 
