@@ -23,7 +23,7 @@
 
 ### AI / ML Engineer · Generative AI · Agentic Systems
 
-<img width="800" height="450" alt="Vedant's AI Workspace" src="https://github.com/user-attachments/assets/04ba818a-bb38-4854-9b55-309c4270c2da" />
+<img width="800" height="450" alt="Vedant's AI Workspace" src="https://github.com/user-attachments/assets/1c2b359e-8dd3-48c1-b9f6-35ef97d4ed46" />
 
 <br>
 
