@@ -65,27 +65,7 @@ And yes...
 
 I'm exploring the transition from **traditional ML applications → LLM applications → agentic systems**.
 
-Instead of building AI that only responds to a prompt, I'm interested in systems that can:
 
-```text
-Understand the request
-        ↓
-Analyze the problem
-        ↓
-Decide what needs to happen
-        ↓
-Route the task
-        ↓
-Retrieve relevant information
-        ↓
-Use tools when required
-        ↓
-Reason over the results
-        ↓
-Generate a useful response
-        ↓
-Remember what actually matters
-````
 
 The bigger goal is to understand how individual AI components can be connected
 to create systems that are **stateful, useful, controllable and actually capable
