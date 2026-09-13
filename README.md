@@ -61,33 +61,7 @@ And yes...
 
 ---
 
-## 🔭 What I'm Building Right Now
 
-I'm exploring the transition from **traditional ML applications → LLM applications → agentic systems**.
-
-
-
-The bigger goal is to understand how individual AI components can be connected
-to create systems that are **stateful, useful, controllable and actually capable
-of handling more than a single prompt-response cycle.**
-
-That's where **LangGraph, RAG, memory, routing, tool calling and multi-agent architectures**
-become especially interesting.
-
-I'm currently experimenting with these ideas through projects rather than
-just learning them theoretically.
-
----
-
-# 📸 A Little Look Into My Work
-
-The interfaces below aren't just UI experiments.
-
-They represent the kind of systems I'm interested in building:
-
-**AI + Engineering + Interaction + A little bit of chaos.**
-
-<div align="center">
 
 ### 🌓 Midnight Owl — When Dark Mode Becomes a Personality
 
